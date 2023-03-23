@@ -12,7 +12,7 @@
     max-width: 1160px;
     margin: 0 auto;
     padding: 15px;
-    box-shadow: 2px 2px 5px green;
+    /* box-shadow: 2px 2px 5px green; */
 }
 
 .support {
@@ -196,16 +196,6 @@ margin-right: 20px;
     .sec1__row2__card{
         margin-right: unset;
     }
-
-}
-
-@media screen and (max-width:400.9px){
-    .sec1__row1__heading h1 {
-        font-size: 30px;
-    }
-    .sec1__row1__heading--second h2{
-        font-size: 30px;
-    }
     .sec1__row1__invention p{
         position: relative;
     } 
@@ -234,4 +224,15 @@ margin-right: 20px;
         opacity: 0.6;
         z-index: -1;
     }
+
+}
+
+@media screen and (max-width:400.9px){
+    .sec1__row1__heading h1 {
+        font-size: 30px;
+    }
+    .sec1__row1__heading--second h2{
+        font-size: 30px;
+    }
+    
 }
