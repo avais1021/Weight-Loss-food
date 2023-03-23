@@ -1,0 +1,9 @@
+
+cardImage-over300         #5abcbf
+cardImage-onlyNatural     #6bc75d
+cardImage-Significant     #b23c8a
+
+card width = 232px
+card height = 369px 
+
+font = roboto , sans-serif
